@@ -1,2 +1,2 @@
 ## Data-Science-Repository
-Repository for ABM Data Science professional certification 
+Repository for IBM Data Science professional certification 
